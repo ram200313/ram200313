@@ -1,4 +1,4 @@
-![logo]("https://github.com/ram200313/ram200313/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png")
+![logo]("https://github.com/ram200313/ram200313/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner%20(1).png")
 <h1 align="center">Hi 👋, I'm jayram v</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
